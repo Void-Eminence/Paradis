@@ -133,3 +133,14 @@
 [12Dec2024 19:09:54.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
 [12Dec2024 19:09:54.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
 [12Dec2024 19:10:15.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Whitelist is already turned off
+[12Dec2024 19:25:46.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[12Dec2024 19:25:46.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Dec2024 19:25:46.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Dec2024 19:25:46.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Dec2024 19:25:48.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12Dec2024 19:25:48.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12Dec2024 19:25:48.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12Dec2024 19:25:48.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12Dec2024 19:25:48.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Dec2024 19:25:48.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Dec2024 19:25:48.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
